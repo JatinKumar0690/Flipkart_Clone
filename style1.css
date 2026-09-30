@@ -137,7 +137,7 @@ body{
     border: 2px solid transparent;
 }
 .hero-img {
-    background-image: url(flipheroimage1.webp);
+    background-image: url(images/flipheroimage1.webp);
     height: 210px;
     width: 98%;
     background-size: contain;
@@ -225,7 +225,7 @@ body{
     right: 0;
     height: 330px;
     width: 250px;
-    background-image: url(flip16.webp);
+    background-image: url(images/flip16.webp);
     background-size: cover;
     z-index: 1;
     background-repeat: no-repeat;
